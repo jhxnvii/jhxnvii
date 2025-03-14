@@ -1,5 +1,3 @@
-# Jhxnvii.e_GithubProfile_
-
 <h1 align="center">Hey 👋, I am Jhanvi Jain!</h1>
 <h3 align="center">AI/ML Enthusiast | InfoSec - Data Protection & Investigation | Software Developer | Passionate Building Secure & Intelligent Solutions</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhxnvii&label=Profile%20views&color=0e75b6&style=flat" alt="jhxnvii" /> </p>
