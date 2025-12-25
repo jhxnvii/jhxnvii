@@ -1,11 +1,3 @@
-Below is a **FULL GitHub README.md CODE** you can directly paste.
-It is **Gen-Z**, **terminal / hacker + AI vibe**, **no career/company mentions**, **secure embeds**, **fast-loading open-source assets**, **animated commit graph feel**, **AI + ML + Cybersecurity theme**, **3D-ish hover/rotation using pure HTML/CSS (GitHub-safe)**, and **CTA buttons (Email, LinkedIn, Twitter)** at the end.
-
-No broken images. No shady scripts. Everything GitHub-safe ✅
-
----
-
-````md
 <!-- ========================= -->
 <!--  JHANVI JAIN — README.md  -->
 <!-- ========================= -->
@@ -173,18 +165,3 @@ onmouseout="this.style.transform='rotateX(0deg)'"
 <img src="https://komarev.com/ghpvc/?username=jhxnvii&label=VISITORS&color=00FFE1&style=flat" />
 
 </div>
-
-<!-- END OF FILE -->
-
-```
-
----
-
-### 🔥 Want upgrades next?
-- Dark **Matrix rain background**
-- Animated **AI face / neural brain SVG**
-- Custom **terminal command intro**
-- Snake commit animation (green matrix style)
-
-Say the word.
-```
